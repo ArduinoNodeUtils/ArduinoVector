@@ -1,0 +1,23 @@
+{
+    "name": "ArduinoVector",
+    "version": "1.0.1",
+    "description": "Arduino Vector library",
+    "keywords": "",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/ArduinoNodeUtils/Arduino_Vector.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Jan Hermes",
+        "email": "mail@hermes-technology.de",
+        "url": "http://www.hermes-technology.de"
+      }
+    ],
+    "license": "BSD 3-Clause",
+    "homepage": "",
+    "frameworks": "*",
+    "platforms": "*"
+  }
